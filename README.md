@@ -1,4 +1,6 @@
 ipynotebooks
 ============
 
-some of my ipython notebooks
+Some of Chris Ward's (http://bit.ly/cward_kejbaly2) ipython notebooks.
+
+
